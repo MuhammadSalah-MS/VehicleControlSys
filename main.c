@@ -1,10 +1,10 @@
 //============================================================================
 // Name        : Vehcile_Control_System - First Mini Project
 // Author      : Muhammad Salah Ahmed
-// Group   	   : 79
+// 
 // Description : This projects aims to simulate the vehcile inside control system
-//				 adjusting the car speed, room tempuratre , engine temperature and changing the states of actuators,
-//				 depending on the sensors reading .
+//		 adjusting the car speed, room tempuratre , engine temperature and changing the states of actuators,
+//	         depending on the sensors reading .
 //============================================================================
 
 // include the standard input/output library
